@@ -2,14 +2,13 @@
 
 ## 📑 Table of Contents
 
-1. [📋 Project Overview](#project-overview)
-2. [❓ Problem Statement & Objectives](#problem-statement)
-3. [🛠 Methodology Summary](#methodology)
-4. [💻 Technologies Used](#technologies-used)
-5. [🔑 Key Findings (Compressed)](#key-findings)
-6. [🚀 Conclusion and Recommendations](#conclusion-recommendations)
-7. [⚠ Limitations](#limitations)
-8. [🤝 Contribution and Contact](#contribution-contact)
+1. [ Project Overview](#project-overview)
+2. [ Problem Statement & Objectives](#problem-statement)
+3. [ Methodology Summary](#methodology)
+4. [ Technologies Used](#technologies-used)
+5. [ Key Findings (Compressed)](#key-findings)
+6. [ Conclusion and Recommendations](#conclusion-recommendations)
+7. [ Limitations](#limitations)
 
 ---
 
@@ -96,11 +95,3 @@ The current analysis is limited by:
 
 ---
 
-## 8. 🤝 Contribution and Contact <a id="contribution-contact"></a>
-
-Collaboration and feedback are highly encouraged to enhance this project.
-
-* *GitHub Discussions:* Engage in discussions on the repository.
-* *Author Contact:* Reach out directly via email for detailed inquiries or suggestions.
-* *Email:* techexpertatb@gmail.com
-* *LinkedIn:* Connect on LinkedIn (URL not available in this summary, but the author is *Ebburu Eswar*).
